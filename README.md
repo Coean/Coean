@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Coean
+- 👋 Hi, I’m @Devpan
 - 👀 I’m interested in Simplify everything in the world with code and improve efficiency.
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning to NodeJS and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me admin@avj.asia
 
