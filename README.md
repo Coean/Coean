@@ -12,6 +12,7 @@
 ![Ocean's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coean&include_all_commits=true&count_private=true&show_icons=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Coean&hide=Batchfile&layout=compact&hide_border=true&langs_count=8)
 
+![Devpan's LeetCode Stats](https://stats.justsong.cn/api/leetcode/?username=Devpan&cn_username=devpan-4&theme=light&cn=true)
 
 <!---
 Coean/Coean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
